@@ -11,8 +11,8 @@ More info regarding the installation: https://wearewuunder.com/handleidingen/ins
 * With this module you connect your Shopware store to your Wuunder account.
 
 ## Install ##
-* Download the .zip file from this repository and unpack.
-* Use FTP to transfer the folder to the `custom/plugins/` folder.
+* Download the latest __composer-installed__ [release](https://github.com/wuunder/wuunder-webshopplugin-shopware/releases/latest) and unpack.
+* Use FTP to transfer the Wuunder folder to the `custom/plugins/` folder.
 * In the backend page of your ShopWare store go to the __Plugin Manager__ in: __Configuration__ -> __Plugin Manager__ -> __Management__ -> __Installed__.
 * Wuunder is located under __Uninstalled Plugins__ click "Open" and next "Install"
 * On the same page under __Configuration__ fill in the form containing your info and click "save".
